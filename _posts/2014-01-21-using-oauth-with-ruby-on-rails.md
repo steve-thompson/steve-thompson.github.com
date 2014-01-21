@@ -2,7 +2,7 @@
 layout: post
 title: "Using oAuth with Ruby on Rails"
 description: ""
-category: 
+category: test
 tags: []
 ---
 {% include JB/setup %}
